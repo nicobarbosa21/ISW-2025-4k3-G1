@@ -1,0 +1,2 @@
+Hola soy un resumen del parcial 2.
+Estoy acá para que se trackee la carpeta en git

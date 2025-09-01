@@ -1,0 +1,2 @@
+Hola soy un archivo que simula la solucion de Nico.
+Existo para que se trackee la carpeta en git
