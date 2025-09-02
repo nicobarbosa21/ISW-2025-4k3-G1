@@ -67,3 +67,7 @@ ISW_2025_4K3_G1
 ---
 
 ## Glosario
+
+- ![TP](https://img.shields.io/badge/TP-Trabajo%20Práctico-green)
+- ![N](https://img.shields.io/badge/N-Número%20de%20TP%20-%20Parcial%20-%20Unidad-yellow)
+- ![X](https://img.shields.io/badge/X-Nombre%20del%20caso%20de%20estudio-purple)
