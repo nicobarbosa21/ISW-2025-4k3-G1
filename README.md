@@ -35,21 +35,20 @@
 ISW_2025_4K3_G1
 ├── 📂 Trabajos
 │   ├── 📂 TrabajosInvestigacion
-│   │   └── TP-N
+│   │   └── 📂 TP-N
 │   └── 📂 TrabajosEvaluables
-│       └── TP-N
+│       └── 📂 TP-N
 ├── 📂 ContenidoClases
-│   └── 📂 Unidades
-│       └── unidad-N
-├── 📂 Bibliografia
-├── 📂 PPTs
-│   ├── 📂 Apuntes
-│   └── 📂 Resúmenes
-├── 📂 Parcial-N
-├── 📂 Final
+│   └── 📂 Unidad-N
+│       ├── 📂 Bibliografia
+│       └── 📂 PPTs
+│       └── 📂 Apuntes
+├── 📂 Resúmenes
+│   ├── 📂 Parcial-N
+│   └── 📂 Final 
 ├── 📂 CasosDeEstudio
-├── 📂 SolucionesPropias
-│   └── CasoEstudioX
+│   └── 📂 SolucionesPropias
+│       └── 📂 CasoEstudioX
 ```
 
 ---
