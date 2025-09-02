@@ -49,6 +49,7 @@ ISW_2025_4K3_G1
 ├── 📂 CasosDeEstudio
 │   └── 📂 SolucionesPropias
 │       └── 📂 CasoEstudioX
+└── 📂 Templates
 ```
 
 ---
