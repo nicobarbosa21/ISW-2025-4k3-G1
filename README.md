@@ -1,6 +1,6 @@
-# ISW-2025-4k3-G1
+<h1 align="center"> # ISW-2025-4k3-G1
 
-# Grupo 1
+<h1 align="center"> ## Grupo 1
 
 ### Integrantes:
 - Barbosa Marchi, Nicolás Daniel - **94654**
@@ -23,13 +23,13 @@
 
 ---
 
-# Documento de Gestión de Configuración
+## Documento de Gestión de Configuración
 
 **Link al repositorio:** https://github.com/nicobarbosa21/ISW-2025-4k3-G1.git
 
 ---
 
-# Estructura del Repositorio
+## Estructura del Repositorio
 
 ```
 ISW_2025_4K3_G1
@@ -54,7 +54,7 @@ ISW_2025_4K3_G1
 
 ---
 
-# Ítems de Configuración
+## Ítems de Configuración
 
 
 ---
