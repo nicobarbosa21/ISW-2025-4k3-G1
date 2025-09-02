@@ -31,24 +31,26 @@
 
 # Estructura del Repositorio
 
-ISW-2025-4K3-G1
-├── Trabajos
-│ ├── TrabajosInvestigacion
-│ │ └── TP-N
-│ └── TrabajosEvaluables
-│ └── TP-N
-├── ContenidoClases
-│ ├── Unidades
-│ │ └── unidad-N
-│ ├── Bibliografía
-│ ├── PPTs
-│ └── Apuntes
-├── Resúmenes
-│ ├── Parcial-N
-│ └── Final
-└── CasosDeEstudio
-└── SolucionesPropias
-└── CasoEstudioX
+```
+ISW_2025_4K3_G1
+├── 📂 Trabajos
+│   ├── 📂 TrabajosInvestigacion
+│   │   └── TP-N
+│   └── 📂 TrabajosEvaluables
+│       └── TP-N
+├── 📂 ContenidoClases
+│   └── 📂 Unidades
+│       └── unidad-N
+├── 📂 Bibliografia
+├── 📂 PPTs
+│   ├── 📂 Apuntes
+│   └── 📂 Resúmenes
+├── 📂 Parcial-N
+├── 📂 Final
+├── 📂 CasosDeEstudio
+├── 📂 SolucionesPropias
+│   └── CasoEstudioX
+```
 
 ---
 
