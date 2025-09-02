@@ -1,6 +1,6 @@
-<h1 align="center"> # ISW-2025-4k3-G1
+<h1 align="center">ISW-2025-4k3-G1</h1>
 
-<h1 align="center"> ## Grupo 1
+<h2 align="center">Grupo 1</h2>
 
 ### Integrantes:
 - Barbosa Marchi, Nicolás Daniel - **94654**
