@@ -67,3 +67,7 @@ ISW_2025_4K3_G1
 ---
 
 ## Glosario
+
+- `TP`: TP - Trabajo Práctico
+- `N`: N - Número de TP - Parcial - Unidad
+- `X`: X - Nombre del caso de estudio
