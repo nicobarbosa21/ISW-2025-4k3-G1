@@ -45,4 +45,9 @@ ISW_2025_4K3_G1
 │       └── 📂 CasoEstudioX
 └── 📂 Templates
 ```
-
+### Referencias
+| Sigla  | Significado                 |
+|--------|-----------------------------|
+| N      | Número entero del 1 al N    |
+| X      | Nombre del caso de estudio  |
+| TP     | Trabajo Práctico            |
