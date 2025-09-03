@@ -21,14 +21,14 @@
 ## Referencias
 | Siglas       | Significado                                  |
 |--------------|----------------------------------------------|
-| `<<Nro>>`    | Numero entero de dos cifras ¿?               |
-| `<<Tema>>`   | Titulo teorico al que pertenece el material¿?|
-| `<<Autor>>`  | Autor del material bibliografico             |
-| `<<Titulo>>` | Título del material bibliografico            |
+| `<<Nro>>`    | Número entero de dos cifras                  |
+| `<<Tema>>`   | Título teórico al que pertenece el material  |
+| `<<Autor>>`  | Autor del material bibliográfico             |
+| `<<Titulo>>` | Título del material bibliográfico            |
 
 ---
 
-##Glosario
+## Glosario
 |Siglas | Significado                       |
 |-------|-----------------------------------|
 | PPT   | PowerPoint                        |
