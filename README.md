@@ -23,12 +23,6 @@
 
 ---
 
-## Documento de Gestión de Configuración
-
-**Link al repositorio:** https://github.com/nicobarbosa21/ISW-2025-4k3-G1.git
-
----
-
 ## Estructura del Repositorio
 
 ```
@@ -52,22 +46,3 @@ ISW_2025_4K3_G1
 └── 📂 Templates
 ```
 
----
-
-## Ítems de Configuración
-
-
----
-
-## Referencias
-
-| Sigla     | Significado                                                                 |
-|-----------|-----------------------------------------------------------------------------|
-
----
-
-## Glosario
-
-- `TP`: TP - Trabajo Práctico
-- `N`: N - Número de TP - Parcial - Unidad
-- `X`: X - Nombre del caso de estudio
